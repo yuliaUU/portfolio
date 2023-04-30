@@ -8,7 +8,7 @@ defaults:
 parts:
   - caption: Information
     chapters:
-    - file: markdown
+    - file: about_me
     - file: cv
   - caption: Example of Analysis
     chapters:
