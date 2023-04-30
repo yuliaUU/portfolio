@@ -23,7 +23,7 @@ As a committed project manager, I have led cross-functional teams and maintained
 
 ````{margin}
 ```{admonition} Quote
-"Data is a precious thing and will last longer than the systems themselves." - Tim Berners-Lee
+> "Data is a precious thing and will last longer than the systems themselves." - Tim Berners-Lee
 ```
 ````
 
