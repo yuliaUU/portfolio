@@ -1,4 +1,4 @@
-# Citations
+# Aknowledgements
 
 The image of the data scientist was generated uisng AI-powered face generator that produces photos of people who do not exist at a resolution of 1024x1024 pixels {cite}`logoface`.
 
